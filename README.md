@@ -25,15 +25,15 @@ git clone https://github.com/sandy9808/daa
 Project Initialize 
 ```
 cd daa
-mkdir ass1
+</br>mkdir ass1
 
 #go to ass1
-cd ass1
+</br>cd ass1
 
 #Create file
-touch readme.md
-touch code1.cpp
-touch code2.cpp
+</br>touch readme.md
+</br>touch code1.cpp
+</br>touch code2.cpp
 .
 .
 ```
