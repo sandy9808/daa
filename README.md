@@ -121,5 +121,16 @@ This algorithm has a space complexity of O(log m+log n)
 
 ### References
 
+</br>
+Above two methods have different time complexities and meet to fulfill the problem statement. The order in which they are good can be listed as:
+</br>
+I. Approach 1
+</br>
+II. Approach 2
+</br>
+Based on the time complexities.
+
+### References
+
 </br>https://www.geeksforgeeks.org/k-th-element-two-sorted-arrays/
 </br>https://tutorialspoint.dev/algorithm/divide-and-conquer/k-th-element-two-sorted-arrays
