@@ -4,18 +4,18 @@
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
 |    IIB2019003  |   dum | dum |
-|    IIB2019004  |   dum | dum | 
+|    IIB2019004  |   Saloni Singla | saloni50 | 
 |    IIB2019005  |   Sandeep kumar | sandy9808  |
 
 **Group No-**"2"
 
-**Faculty Name-**"-----------------"
+**Faculty Name-**"Dr. Rahul Kala"
 
 **Mentor Name-** "Md. Meraz"
 
 ---
 ## Problem Statement
-Curve fitting using Least squares Approximation
+find the element that would be at the k’th position of the final sorted array of two sorted array of size m and n.
 
 ---
 ## How to use code
