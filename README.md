@@ -25,14 +25,15 @@ git clone https://github.com/sandy9808/daa
 Project Initialize 
 ```
 cd daa
-mkdir assignment_01
+</br>mkdir ass1
 
-#go to assignment-1
-cd assignment_01
+#go to ass1
+</br>cd ass1
 
 #Create file
-touch readme.md
-touch main.py
+</br>touch readme.md
+</br>touch code1.cpp
+</br>touch code2.cpp
 .
 .
 ```
