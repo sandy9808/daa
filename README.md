@@ -39,29 +39,15 @@ touch main.py
 ---
 
 
+---
+
 Run the code
 ```
-g++ code1.cpp
+python main.py
 ```
-
-```
-./a.exe
-```
-
-#Now input the values of m,n,k Now input the array 1 and array2 in next line.
-
-```
-g++ code2.cpp
-```
-
-#Now input the values of m,n,k Now input the array 1 and array2 in next line.
-```
-./a.exe
-```
-
 Output
 ```
-K'th element of two sorted arrays
+Curve fitting using Least squares Approximation
 ```
 ---
 
