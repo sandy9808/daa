@@ -119,7 +119,7 @@ This algorithm has a space complexity of O(log m+log n)
 
 ---
 
-### References
+### Conclusion
 
 </br>
 Above two methods have different time complexities and meet to fulfill the problem statement. The order in which they are good can be listed as:
