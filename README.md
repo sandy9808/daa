@@ -19,15 +19,12 @@ Given two sorted arrays of size m and n respectively, you are tasked with findin
 
 ---
 ## How to use code
-A quick and simplified answer is that Lorem Ipsum refers to text that the DTP (Desktop Publishing) industry use as replacement text when the real text is not available. ... Lorem Ipsum is dummy text which has no meaning however looks very similar to real text.
-```
 #Download project
-git clone https://github.com/merazlab/daa 
+git clone https://github.com/sandy9808/daa 
 ```
 Project Initialize 
 ```
 cd daa
-#create assignment-1 folder
 mkdir assignment_01
 
 #go to assignment-1
@@ -41,11 +38,27 @@ touch main.py
 ```
 ---
 
+
 Run the code
 ```
-code1.cpp
-code2.cpp
+g++ code1.cpp
 ```
+
+```
+./a.exe
+```
+
+#Now input the values of m,n,k Now input the array 1 and array2 in next line.
+
+```
+g++ code2.cpp
+```
+
+#Now input the values of m,n,k Now input the array 1 and array2 in next line.
+```
+./a.exe
+```
+
 Output
 ```
 K'th element of two sorted arrays
