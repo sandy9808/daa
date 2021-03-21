@@ -3,7 +3,7 @@
 **Team Members**
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
-|    IIB2019003  |   dum | dum |
+|    IIB2019003  |   Vasu Gupta | Cipher-vasu |
 |    IIB2019004  |   Saloni Singla | saloni50 | 
 |    IIB2019005  |   Sandeep kumar | sandy9808  |
 
