@@ -43,17 +43,18 @@ touch main.py
 
 Run the code
 ```
-python main.py
+code1.cpp
+code2.cpp
 ```
 Output
 ```
-Curve fitting using Least squares Approximation
+K'th element of two sorted arrays
 ```
 ---
 
 **Test case**
 
-Find max
+Find k'th element of two sorted arrays
 ```
 Test Case-1
 Input:
