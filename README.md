@@ -15,7 +15,7 @@
 
 ---
 ## Problem Statement
-find the element that would be at the k’th position of the final sorted array of two sorted array of size m and n.
+Given two sorted arrays of size m and n respectively, you are tasked with finding the element that would be at the k’th position of the final sorted array. Solve using divide and conquer algorithm.
 
 ---
 ## How to use code
