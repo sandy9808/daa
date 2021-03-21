@@ -3,7 +3,7 @@
 **Team Members**
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
-|    IIT2019001  |   xyz | merazlab |
+|    IIB2019003  |   Vasu Gupta | Cipher-vasu |
 |    IIT2019002  |   lmn | mohan | 
 |    IIT2019003  |   pqr | ram  |
 
