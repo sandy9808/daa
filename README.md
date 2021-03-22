@@ -58,8 +58,8 @@ Test Case-1
 Input:
 1
 5 4 5
-12 23 18 17 49
-31 14 28 11
+12 17 18 23 49
+11 14 28 31
 Output:
 18
 #--------------------------#
@@ -67,10 +67,10 @@ Test Case-2
 Input:
 1                                                                                               
 5 7 4
-100 256 150 889 770                                          
-272 486 363 119 565 445 892                            
+100 150 256 770 889                                          
+119 272 363 445 486 565 892                       
 Output:
-272
+256
 ```
 
 ---
@@ -102,10 +102,10 @@ In  this  recursive  divide  and  conquer  approach,  the  function kth  is  cal
 
 ### Conclusion
 
-<br />Above two methods have different time complexities and meet to fulfill the problem statement. The order in which they are good can be listed as:
+<br />Above two methods have different time complexity & space complexity and meet to fulfill the problem statement. The order in which they are good can be listed as:
 <br />I. Approach 1
 <br />II. Approach 2
-<br />Based on the time complexities.
+<br />Based on the time complexity and space complexity.
 
 ### References
 
